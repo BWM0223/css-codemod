@@ -1,5 +1,8 @@
 {
   "version": "0.0.0-dripip",
+  "bugs": {
+    "url": "https://github.com/skovy/css-codemod/issues"
+  },
   "license": "MIT",
   "name": "css-codemod",
   "author": "Spencer Miskoviak",
